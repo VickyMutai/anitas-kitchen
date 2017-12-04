@@ -1,0 +1,27 @@
+#landing{
+  background: url(../img/backgrounds/landing.jpg);
+  background-repeat: no-repeat;
+}
+.header{
+  margin-left: 43%;
+  margin-top: 20%;
+  margin-bottom: 10%;
+  font-family: 'Arapey', sans-serif;
+  font-size: 30px;
+  color: white;
+}
+.logo{
+  width: 30%;
+}
+#breakfast{
+  background: url(../img/foodtop/breakfast.jpg);
+  color: white;
+}
+#lunch{
+  background: url(../img/foodtop/lunch.jpg);
+  color: white;
+}
+#dinner{
+  background: url(../img/foodtop/dinner.jpg);
+  color: white;
+}
