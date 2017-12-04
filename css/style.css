@@ -1,11 +1,10 @@
 #landing{
-  background: url(../img/backgrounds/landing.jpg);
+  background: url("../img/backgrounds/landing.jpg");
   background-repeat: no-repeat;
 }
 .header{
   margin-left: 43%;
   margin-top: 20%;
-  margin-bottom: 10%;
   font-family: 'Arapey', sans-serif;
   font-size: 30px;
   color: white;
@@ -13,15 +12,32 @@
 .logo{
   width: 30%;
 }
-#breakfast{
-  background: url(../img/foodtop/breakfast.jpg);
+#food{
+  height: 200px;
+  text-align: center;
+  background-color: #f15a29;
   color: white;
+  font-family: 'Arapey', sans-serif;
+  font-size: 20px;
 }
-#lunch{
-  background: url(../img/foodtop/lunch.jpg);
-  color: white;
+.happy{
+  margin-top: 14%;
 }
-#dinner{
-  background: url(../img/foodtop/dinner.jpg);
+.party{
+  margin-top: 14%;
+}
+.breakfast{
+  background: url("../img/foodtop/breakfast.jpg");
   color: white;
+  padding-top: 95px;
+}
+.lunch{
+  background: url("../img/foodtop/lunch.jpg");
+  color: white;
+  padding-top: 95px;
+}
+.dinner{
+  background: url("../img/foodtop/dinner.jpg");
+  color: white;
+  padding-top: 95px;
 }
