@@ -28,16 +28,19 @@
 }
 .breakfast{
   background: url("../img/foodtop/breakfast.jpg");
+  background-repeat: no-repeat;
   color: white;
   padding-top: 95px;
 }
 .lunch{
   background: url("../img/foodtop/lunch.jpg");
+  background-repeat: no-repeat;
   color: white;
   padding-top: 95px;
 }
 .dinner{
   background: url("../img/foodtop/dinner.jpg");
+  background-repeat: no-repeat;
   color: white;
   padding-top: 95px;
 }
@@ -45,11 +48,16 @@
   width: 60%;
   float: right;
 }
-.fastFood{
-  box-shadow: 0 0 5px 5px #888;
+/*.fastFood{
+  box-shadow: 0px 0px 5px 5px #888;
   margin-top: 30px;
   float: right;
-  padding: 20px 20px 20px 20px;
+  padding: 20px;
+}*/
+.fastFood{
+  margin-top: 30px;
+  box-shadow: 0px 0px 5px 5px #888;
+  float: right;
 }
 .fastFood-text{
   margin-top: 70px;
@@ -64,4 +72,22 @@
   border-width: 1px;
   padding: 10px;
   padding-right: 30px;
+}
+.drinks{
+  box-shadow: 0px 0px 5px 5px #888;
+  margin-top: 30px;
+  float: left;
+  padding: 20px;
+}
+.drinkImages{
+  width: 100%;
+}
+.drink-text{
+  margin-top: 100px;
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 90px;
+  margin-right: 20px;
+}
+.snacks{
+  background: url("../img/backgrounds/foodsBg.jpg");
 }
