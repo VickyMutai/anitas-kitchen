@@ -45,8 +45,7 @@
   padding-top: 95px;
 }
 .myImages{
-  width: 60%;
-  float: right;
+  width: 100%;
 }
 /*.fastFood{
   box-shadow: 0px 0px 5px 5px #888;
@@ -58,6 +57,8 @@
   margin-top: 30px;
   box-shadow: 0px 0px 5px 5px #888;
   float: right;
+  margin-left: 30%;
+  padding: 10px;
 }
 .fastFood-text{
   margin-top: 70px;
@@ -75,8 +76,7 @@
 }
 .drinks{
   box-shadow: 0px 0px 5px 5px #888;
-  margin-top: 30px;
-  float: left;
+  margin-top: 40px;
   padding: 20px;
 }
 .drinkImages{
@@ -85,8 +85,8 @@
 .drink-text{
   margin-top: 100px;
   font-family: 'Montserrat', sans-serif;
-  margin-left: 90px;
-  margin-right: 20px;
+  margin-left: 30%;
+  margin-right: 10%;
 }
 .snacks{
   background: url("../img/backgrounds/foodsBg.jpg");
