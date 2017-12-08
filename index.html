@@ -82,19 +82,54 @@
         <div class="drinks">
           <div class="row">
             <div class="col-md-6">
-              <img src="img/drink1.jpg" class="drinkImages"/>
+              <img src="img/drink1.jpg" class="drinkImage1"/>
             </div>
             <div class="col-md-6">
-              <img src="img/drink2.jpg" class="drinkImages"/>
+              <img src="img/drink2.jpg" class="drinkImage2"/>
             </div>
           </div>
         </div>
       </div>
-    <div class="row snacks">
-      <div class="col-md-3"></div>
-      <div class="col-md-3"></div>
-      <div class="col-md-3"></div>
-      <div class="col-md-3"></div>
+    </div>
+    <div class="snacks">
+      <div class="tab snacky">
+        <button class="tablinks" onclick="snack(event, 'fastFood')">FastFood</button>
+        <button class="tablinks" onclick="snack(event, 'drinks')">Drinks</button>
+        <button class="tablinks" onclick="snack(event, 'chicken')">Chicken</button>
+        <button class="tablinks" onclick="snack(event, 'rice')">Rice</button>
+      </div>
+
+      <div id="fastFood" class="tabcontent">
+        <div class="row fast">
+          <div class="col-md-4">
+            <img src="img/fastfood/chickenBurger.jpg"/>
+            <br/><br/>
+            <h4>Chicken Burger</h4>
+          </div>
+          <div class="col-md-4">
+            <img src="img/fastfood/beefBurger.jpg"/>
+            <br/><br/>
+            <h4>Beef Burger</h4>
+          </div>
+          <div class="col-md-4">
+            <img src="img/fastfood/chickenPizza.jpg"/>
+            <br/><br/>
+            <h4>Chicken Pizza</h4>
+          </div>
+      </div>
+    </div>
+
+      <div id="drinks" class="tabcontent">
+        <p>This is a drinks tab</p>
+        </div>
+
+      <div id="chicken" class="tabcontent">
+        <p>This is a chicken tab</p>
+      </div>
+
+      <div id="rice" class="tabcontent">
+        <p>Contains information on rice</p>
+      </div>
     </div>
     <div class="container">
       <div class="row">
