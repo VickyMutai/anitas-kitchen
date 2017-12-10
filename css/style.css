@@ -104,6 +104,7 @@ ul {
   color: #f15a29;
   font-size: 300%;
   padding-top: 3%;
+  overflow: auto;
 }
 .snackTab{
   margin: 3%;
@@ -140,11 +141,28 @@ margin-left: 40%;
 }
 .feedback{
   margin-top: 5%;
-  margin-bottom: 5%;
   font-family: cursive;
-  font-size: 120%;
+  font-size: 200%;
+  box-shadow: 0px 0px 5px 5px #888;
+  margin-left: 15%;
+  margin-right: 10%;
+  margin-bottom: 5%;
+  padding: 3%;
 }
 .feedback h3{
   color: #f15a29;
   font-weight: bold;
+  text-align: center;
+  font-size: 250%;
+}
+.vertical{
+  border-left: 3px #D8D8D8;
+  height: 500px;
+  position: absolute;
+   left: 50%;
+   margin-left: -3px;
+   top: 0;
+}
+.subscribe{
+  background: url(../img/backgrounds/subscribe.jpg);
 }
