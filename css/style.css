@@ -160,4 +160,13 @@ margin-left: 40%;
 }
 .subscribe{
   background: url(../img/backgrounds/subscribe.jpg);
+  background-size: cover;
+  height: 30%;
+}
+.end{
+  background-color: #f15a29;
+  color: white;
+  font-size: 150%;
+  padding-top: 3%;
+  padding-left: 25%;
 }
