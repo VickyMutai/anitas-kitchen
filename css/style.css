@@ -155,13 +155,8 @@ margin-left: 40%;
   text-align: center;
   font-size: 250%;
 }
-.vertical{
-  border-left: 3px #D8D8D8;
-  height: 500px;
-  position: absolute;
-   left: 50%;
-   margin-left: -3px;
-   top: 0;
+.feedback p,h4{
+  color: black;
 }
 .subscribe{
   background: url(../img/backgrounds/subscribe.jpg);
