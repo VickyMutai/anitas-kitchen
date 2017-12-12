@@ -10,8 +10,18 @@
   font-size: 30px;
   color: white;
 }
-.toogleBar{
-  
+.toggleBar{
+  margin-left: 3%;
+  margin-top: 3%;
+  padding: 0%;
+  width: 20%;
+  height: 20%;
+}
+.styleToggle{
+  background-color: #f15a29;
+  padding: 50%;
+  height: 100%;
+  width: 100%;
 }
 .logo{
   width: 30%;
