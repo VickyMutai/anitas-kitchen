@@ -161,7 +161,26 @@ margin-left: 40%;
 .subscribe{
   background: url(../img/backgrounds/subscribe.jpg);
   background-size: cover;
-  height: 30%;
+}
+.sub-style{
+  padding-top: 3%;
+  padding-left: 28%;
+  padding-bottom: 5%;
+  color: white;
+  font-size: 300%;
+  font-weight: bold;
+  font-family: cursive;
+}
+
+#email{
+  background-color: #ffffff;
+  opacity: .4;
+  width: 40%;
+}
+.btn{
+  background-color: #f15a29;
+  font-size: 120%;
+  margin-left: 10%;
 }
 .end{
   background-color: #f15a29;
