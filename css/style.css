@@ -185,7 +185,16 @@ margin-left: 40%;
 .end{
   background-color: #f15a29;
   color: white;
-  font-size: 150%;
+  font-size: 250%;
   padding-top: 3%;
-  padding-left: 25%;
+  padding-left: 40%;
+  padding-bottom: 5%;
+  font-family: cursive;
+}
+.footerImg{
+  height: 5%;
+  width: 4%;
+}
+.footerP{
+  color: black;
 }
