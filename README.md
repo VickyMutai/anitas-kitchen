@@ -19,9 +19,12 @@ Being a web application I have Used:
 
 ## Support and contact details
 Incase of any problems or issues encountered.
-&nbsp; &nbsp; &nbsp; &nbsp;contact me on; 0716889165
 <br/>
+&nbsp; &nbsp; &nbsp; &nbsp;contact me on; 0716889165
+<br/><br/>
 &nbsp; &nbsp; &nbsp; &nbsp;  Email me at: [Victoria Mutai](vicky.mutai96@gmail.com)
+<br/>
 ### License
 This is an open source software therefore the license is [MIT](https://choosealicense.com/licenses/mit/)
+<br/><br/>
 Copyright (c) 2017 **Legacy Softwares**
