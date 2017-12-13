@@ -224,3 +224,7 @@ margin-left: 40%;
 .footerP{
   color: black;
 }
+#type:hover{
+  background: url(../img/white.png);
+  color: black;
+}
