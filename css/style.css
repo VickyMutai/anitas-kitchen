@@ -10,16 +10,34 @@
   font-size: 30px;
   color: white;
 }
-.toggleBar{
-  margin-left: 3%;
-  margin-top: 3%;
-  padding: 0%;
-  width: 20%;
-  height: 20%;
+nav{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f15a29;
+  opacity: 0.9;
+  z-index: 10;
+  position: absolute;
+  right: 100%;
+}
+#open-nav{
+  position: absolute;
+  z-index: 1;
+  padding: 2%;
+  color: rgb(255, 255, 255);
+
+}
+i{
+  font-size: 500%;
 }
 .styleToggle{
   background-color: #f15a29;
+  background-size: cover;
   padding: 50%;
+}
+.links{
   height: 100%;
   width: 100%;
 }
