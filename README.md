@@ -4,6 +4,12 @@
 ## Getting Started
 These are instructions to help you get a copy of the project locally on your
 machine.
+## How to Copy
+* Open the github [repository](https://github.com/VickyMutai/anitas-kitchen).
+* click on the clone/download button.
+* Copy link/url
+* Go to terminal for ubuntu users and gitbash for windows users
+* use git clone [url] to clone the project
 ## Setup/Installation Requirements
 * Browser
 * Good internet connection
@@ -16,7 +22,8 @@ Being a web application I have Used:
 * HTML
 * Javascript
 * CSS
-
+<br/>
+To view the site online use this [link](https://vickymutai.github.io/anitas-kitchen/)
 ## Support and contact details
 Incase of any problems or issues encountered.
 <br/>
