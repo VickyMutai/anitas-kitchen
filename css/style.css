@@ -32,6 +32,7 @@ nav{
 }
 i{
   font-size: 500%;
+  display:block;
 }
 .logo{
   width: 30%;
