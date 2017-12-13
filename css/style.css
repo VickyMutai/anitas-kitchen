@@ -22,6 +22,7 @@ nav{
   position: absolute;
   right: 100%;
 }
+
 #open-nav{
   position: absolute;
   z-index: 1;
@@ -31,15 +32,6 @@ nav{
 }
 i{
   font-size: 500%;
-}
-.styleToggle{
-  background-color: #f15a29;
-  background-size: cover;
-  padding: 50%;
-}
-.links{
-  height: 100%;
-  width: 100%;
 }
 .logo{
   width: 30%;
@@ -243,6 +235,13 @@ margin-left: 40%;
   color: black;
 }
 #type:hover{
-  background: url(../img/white.png);
+  background: url("../img/white.png");
+  opacity: 0.6;
   color: black;
+}
+ul a:hover{
+  color: black;
+}
+ul a:link{
+  color: white;
 }
